@@ -2,7 +2,7 @@
 Start a new API session.
 
 
-Call the **Login** endpoint, passing in your Currencycloud login ID (usually your email address) and API key.
+Call the **Login** endpoint, passing in your Currencycloud login ID (usually your email address) and API key..
 
 ``POST /v2/authenticate/api`` \
 ``Content-Type: multipart/form-data``
